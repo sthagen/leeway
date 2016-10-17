@@ -1,0 +1,16 @@
+[paths]
+source =
+   src/leeway
+   */site-packages/leeway
+
+[run]
+branch = true
+source =
+    leeway
+    tests
+parallel = true
+
+[report]
+show_missing = true
+precision = 2
+omit = *migrations*
