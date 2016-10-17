@@ -34,7 +34,7 @@ Overview
 
 .. |coveralls| image:: https://coveralls.io/repos/sdrees/python-leeway/badge.svg?branch=master&service=github
     :alt: Coverage Status
-    :target: https://coveralls.io/r/sdrees/python-leeway
+    :target: https://coveralls.io/github/sdrees/python-leeway
 
 .. |codecov| image:: https://codecov.io/github/sdrees/python-leeway/coverage.svg?branch=master
     :alt: Coverage Status
