@@ -17,7 +17,7 @@ Why does this file exist, and why not put this in __main__?
 import sys
 
 
-def main(argv=sys.argv):
+def main(argv=None):
     """
     Args:
         argv (list): List of arguments
@@ -27,6 +27,6 @@ def main(argv=sys.argv):
 
     Does stuff.
     """
-
+    argv = argv if argv is not None else sys.argv
     print(argv)
     return 0
