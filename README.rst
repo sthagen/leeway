@@ -20,36 +20,36 @@ Overview
     :target: https://readthedocs.org/projects/python-leeway
     :alt: Documentation Status
 
-.. |travis| image:: https://travis-ci.org/sdrees/python-leeway.svg?branch=master
+.. |travis| image:: https://travis-ci.org/sthagen/python-leeway.svg?branch=master
     :alt: Travis-CI Build Status
-    :target: https://travis-ci.org/sdrees/python-leeway
+    :target: https://travis-ci.org/sthagen/python-leeway
 
-.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/sdrees/python-leeway?branch=master&svg=true
+.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/sthagen/python-leeway?branch=master&svg=true
     :alt: AppVeyor Build Status
-    :target: https://ci.appveyor.com/project/sdrees/python-leeway
+    :target: https://ci.appveyor.com/project/sthagen/python-leeway
 
-.. |requires| image:: https://requires.io/github/sdrees/python-leeway/requirements.svg?branch=master
+.. |requires| image:: https://requires.io/github/sthagen/python-leeway/requirements.svg?branch=master
     :alt: Requirements Status
-    :target: https://requires.io/github/sdrees/python-leeway/requirements/?branch=master
+    :target: https://requires.io/github/sthagen/python-leeway/requirements/?branch=master
 
-.. |coveralls| image:: https://coveralls.io/repos/sdrees/python-leeway/badge.svg?branch=master&service=github
+.. |coveralls| image:: https://coveralls.io/repos/sthagen/python-leeway/badge.svg?branch=master&service=github
     :alt: Coverage Status
-    :target: https://coveralls.io/github/sdrees/python-leeway
+    :target: https://coveralls.io/github/sthagen/python-leeway
 
-.. |codecov| image:: https://codecov.io/github/sdrees/python-leeway/coverage.svg?branch=master
+.. |codecov| image:: https://codecov.io/github/sthagen/python-leeway/coverage.svg?branch=master
     :alt: Coverage Status
-    :target: https://codecov.io/github/sdrees/python-leeway
+    :target: https://codecov.io/github/sthagen/python-leeway
 
-.. |landscape| image:: https://landscape.io/github/sdrees/python-leeway/master/landscape.svg?style=flat
-    :target: https://landscape.io/github/sdrees/python-leeway/master
+.. |landscape| image:: https://landscape.io/github/sthagen/python-leeway/master/landscape.svg?style=flat
+    :target: https://landscape.io/github/sthagen/python-leeway/master
     :alt: Code Quality Status
 
 .. |codacy| image:: https://img.shields.io/codacy/REPLACE_WITH_PROJECT_ID.svg?style=flat
-    :target: https://www.codacy.com/app/sdrees/python-leeway
+    :target: https://www.codacy.com/app/sthagen/python-leeway
     :alt: Codacy Code Quality Status
 
-.. |codeclimate| image:: https://codeclimate.com/github/sdrees/python-leeway/badges/gpa.svg
-   :target: https://codeclimate.com/github/sdrees/python-leeway
+.. |codeclimate| image:: https://codeclimate.com/github/sthagen/python-leeway/badges/gpa.svg
+   :target: https://codeclimate.com/github/sthagen/python-leeway
    :alt: CodeClimate Quality Status
 
 .. |version| image:: https://img.shields.io/pypi/v/leeway.svg?style=flat
@@ -72,9 +72,9 @@ Overview
     :alt: Supported implementations
     :target: https://pypi.python.org/pypi/leeway
 
-.. |scrutinizer| image:: https://img.shields.io/scrutinizer/g/sdrees/python-leeway/master.svg?style=flat
+.. |scrutinizer| image:: https://img.shields.io/scrutinizer/g/sthagen/python-leeway/master.svg?style=flat
     :alt: Scrutinizer Status
-    :target: https://scrutinizer-ci.com/g/sdrees/python-leeway/
+    :target: https://scrutinizer-ci.com/g/sthagen/python-leeway/
 
 
 .. end-badges

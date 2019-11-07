@@ -23,22 +23,22 @@ if os.getenv('SPELLCHECK'):
 source_suffix = '.rst'
 master_doc = 'index'
 project = u'leeway'
-year = u'2015-2016'
+year = u'2015-2019'
 author = u'Stefan Hagen'
 copyright = '{0}, {1}'.format(year, author)
-version = release = u'0.1.0'
+version = release = u'0.1.1'
 
 pygments_style = 'trac'
 templates_path = ['.']
 extlinks = {
-    'issue': ('https://github.com/sdrees/python-leeway/issues/%s', '#'),
-    'pr': ('https://github.com/sdrees/python-leeway/pull/%s', 'PR #'),
+    'issue': ('https://github.com/sthagen/python-leeway/issues/%s', '#'),
+    'pr': ('https://github.com/sthagen/python-leeway/pull/%s', 'PR #'),
 }
 import sphinx_py3doc_enhanced_theme
 html_theme = "sphinx_py3doc_enhanced_theme"
 html_theme_path = [sphinx_py3doc_enhanced_theme.get_html_theme_path()]
 html_theme_options = {
-    'githuburl': 'https://github.com/sdrees/python-leeway/'
+    'githuburl': 'https://github.com/sthagen/python-leeway/'
 }
 
 html_use_smartypants = True
