@@ -13,4 +13,4 @@ import sys
 from leeway.cli import main
 
 if __name__ == "__main__":
-    sys.exit(main())
+    sys.exit(main(argv=sys.argv))  # pragma: no cover

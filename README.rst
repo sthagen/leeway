@@ -10,17 +10,16 @@ Overview
     * - docs
       - |docs|
     * - tests
-      - | |travis| |appveyor| |requires|
-        | |coveralls| |codecov|
-        | |landscape| |scrutinizer| |codacy| |codeclimate|
+      - | |travis| |appveyor| |requires| |coveralls|
+        | |scrutinizer| |codeclimate| |codecov|
     * - package
       - |version| |downloads| |wheel| |supported-versions| |supported-implementations|
 
 .. |docs| image:: https://readthedocs.org/projects/python-leeway/badge/?style=flat
-    :target: https://readthedocs.org/projects/python-leeway
+    :target: https://readthedocs.org/projects/python-leeway/
     :alt: Documentation Status
 
-.. |travis| image:: https://travis-ci.org/sthagen/python-leeway.svg?branch=master
+.. |travis| image:: https://api.travis-ci.org/sthagen/python-leeway.svg?branch=master
     :alt: Travis-CI Build Status
     :target: https://travis-ci.org/sthagen/python-leeway
 
@@ -36,17 +35,9 @@ Overview
     :alt: Coverage Status
     :target: https://coveralls.io/github/sthagen/python-leeway
 
-.. |codecov| image:: https://codecov.io/github/sthagen/python-leeway/coverage.svg?branch=master
+.. |codecov| image:: https://codecov.io/gh/sthagen/python-leeway/branch/master/graphs/badge.svg?branch=master
     :alt: Coverage Status
-    :target: https://codecov.io/github/sthagen/python-leeway
-
-.. |landscape| image:: https://landscape.io/github/sthagen/python-leeway/master/landscape.svg?style=flat
-    :target: https://landscape.io/github/sthagen/python-leeway/master
-    :alt: Code Quality Status
-
-.. |codacy| image:: https://img.shields.io/codacy/REPLACE_WITH_PROJECT_ID.svg?style=flat
-    :target: https://www.codacy.com/app/sthagen/python-leeway
-    :alt: Codacy Code Quality Status
+    :target: https://codecov.io/gh/sthagen/python-leeway
 
 .. |codeclimate| image:: https://codeclimate.com/github/sthagen/python-leeway/badges/gpa.svg
    :target: https://codeclimate.com/github/sthagen/python-leeway
@@ -54,25 +45,25 @@ Overview
 
 .. |version| image:: https://img.shields.io/pypi/v/leeway.svg?style=flat
     :alt: PyPI Package latest release
-    :target: https://pypi.python.org/pypi/leeway
+    :target: https://pypi.org/project/leeway
 
 .. |downloads| image:: https://img.shields.io/pypi/dm/leeway.svg?style=flat
     :alt: PyPI Package monthly downloads
-    :target: https://pypi.python.org/pypi/leeway
+    :target: https://pypi.org/project/leeway
 
 .. |wheel| image:: https://img.shields.io/pypi/wheel/leeway.svg?style=flat
     :alt: PyPI Wheel
-    :target: https://pypi.python.org/pypi/leeway
+    :target: https://pypi.org/project/leeway
 
 .. |supported-versions| image:: https://img.shields.io/pypi/pyversions/leeway.svg?style=flat
     :alt: Supported versions
-    :target: https://pypi.python.org/pypi/leeway
+    :target: https://pypi.org/project/leeway
 
 .. |supported-implementations| image:: https://img.shields.io/pypi/implementation/leeway.svg?style=flat
     :alt: Supported implementations
-    :target: https://pypi.python.org/pypi/leeway
+    :target: https://pypi.org/project/leeway
 
-.. |scrutinizer| image:: https://img.shields.io/scrutinizer/g/sthagen/python-leeway/master.svg?style=flat
+.. |scrutinizer| image:: https://img.shields.io/scrutinizer/quality/g/sthagen/python-leeway/master.svg?style=flat
     :alt: Scrutinizer Status
     :target: https://scrutinizer-ci.com/g/sthagen/python-leeway/
 

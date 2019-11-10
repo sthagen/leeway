@@ -27,6 +27,7 @@ setup(
     version='0.1.1',
     license='MIT',
     description='Bread and butter box pushing bread slices under butter knives. Hints from previous runs are taken.',
+    long_description_content_type='text/x-rst',
     long_description='%s\n%s' % (
         re.compile('^.. start-badges.*^.. end-badges', re.M | re.S).sub('', read('README.rst')),
         re.sub(':[a-z]+:`~?(.*?)`', r'``\1``', read('CHANGELOG.rst'))
