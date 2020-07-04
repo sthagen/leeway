@@ -109,3 +109,5 @@ Note, to combine the coverage data from all the tox environments run:
       - ::
 
             PYTEST_ADDOPTS=--cov-append tox
+
+Note: The name of the default branch is *default* :wink:
