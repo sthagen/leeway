@@ -79,7 +79,10 @@ Installation
 
 ::
 
-    pip install leeway
+    pipx install leeway
+or::
+
+    python -m pip install leeway
 
 Documentation
 =============
