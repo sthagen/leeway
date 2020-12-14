@@ -10,7 +10,7 @@ Overview
     * - docs
       - |docs|
     * - tests
-      - | |travis| |appveyor| |requires| |coveralls|
+      - | |requires| |coveralls|
         | |scrutinizer| |codeclimate| |codecov|
     * - package
       - |version| |downloads| |wheel| |supported-versions| |supported-implementations|
@@ -18,14 +18,6 @@ Overview
 .. |docs| image:: https://readthedocs.org/projects/python-leeway/badge/?style=flat
     :target: https://readthedocs.org/projects/python-leeway/
     :alt: Documentation Status
-
-.. |travis| image:: https://api.travis-ci.org/sthagen/python-leeway.svg?branch=master
-    :alt: Travis-CI Build Status
-    :target: https://travis-ci.org/sthagen/python-leeway
-
-.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/sthagen/python-leeway?branch=master&svg=true
-    :alt: AppVeyor Build Status
-    :target: https://ci.appveyor.com/project/sthagen/python-leeway
 
 .. |requires| image:: https://requires.io/github/sthagen/python-leeway/requirements.svg?branch=master
     :alt: Requirements Status
