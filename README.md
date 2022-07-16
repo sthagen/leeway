@@ -1,108 +1,42 @@
-========
-Overview
-========
-
-.. start-badges
-
-.. list-table::
-    :stub-columns: 1
-
-    * - docs
-      - |docs|
-    * - tests
-      - | |requires| |coveralls|
-        | |scrutinizer| |codeclimate| |codecov|
-    * - package
-      - |version| |downloads| |wheel| |supported-versions| |supported-implementations|
-
-.. |docs| image:: https://readthedocs.org/projects/python-leeway/badge/?style=flat
-    :target: https://readthedocs.org/projects/python-leeway/
-    :alt: Documentation Status
-
-.. |requires| image:: https://requires.io/github/sthagen/python-leeway/requirements.svg?branch=master
-    :alt: Requirements Status
-    :target: https://requires.io/github/sthagen/python-leeway/requirements/?branch=master
-
-.. |coveralls| image:: https://coveralls.io/repos/sthagen/python-leeway/badge.svg?branch=master&service=github
-    :alt: Coverage Status
-    :target: https://coveralls.io/github/sthagen/python-leeway
-
-.. |codecov| image:: https://codecov.io/gh/sthagen/python-leeway/branch/master/graphs/badge.svg?branch=master
-    :alt: Coverage Status
-    :target: https://codecov.io/gh/sthagen/python-leeway
-
-.. |codeclimate| image:: https://codeclimate.com/github/sthagen/python-leeway/badges/gpa.svg
-   :target: https://codeclimate.com/github/sthagen/python-leeway
-   :alt: CodeClimate Quality Status
-
-.. |version| image:: https://img.shields.io/pypi/v/leeway.svg?style=flat
-    :alt: PyPI Package latest release
-    :target: https://pypi.org/project/leeway
-
-.. |downloads| image:: https://img.shields.io/pypi/dm/leeway.svg?style=flat
-    :alt: PyPI Package monthly downloads
-    :target: https://pypi.org/project/leeway
-
-.. |wheel| image:: https://img.shields.io/pypi/wheel/leeway.svg?style=flat
-    :alt: PyPI Wheel
-    :target: https://pypi.org/project/leeway
-
-.. |supported-versions| image:: https://img.shields.io/pypi/pyversions/leeway.svg?style=flat
-    :alt: Supported versions
-    :target: https://pypi.org/project/leeway
-
-.. |supported-implementations| image:: https://img.shields.io/pypi/implementation/leeway.svg?style=flat
-    :alt: Supported implementations
-    :target: https://pypi.org/project/leeway
-
-.. |scrutinizer| image:: https://img.shields.io/scrutinizer/quality/g/sthagen/python-leeway/master.svg?style=flat
-    :alt: Scrutinizer Status
-    :target: https://scrutinizer-ci.com/g/sthagen/python-leeway/
-
-
-.. end-badges
+# leeway
 
 Bread and butter box pushing bread slices under butter knives. Hints from previous runs are taken.
 
-* Free software: BSD license
+<!-- TODO: Third party dependencies are documented in the folder [docs/third-party](docs/third-party/README.md). -->
 
-Installation
-============
+[License: MIT](https://github.com/sthagen/leeway/blob/default/LICENSE)
 
-::
+[![version](https://img.shields.io/pypi/v/leeway.svg?style=flat)](https://pypi.python.org/pypi/leeway/)
+[![downloads](https://pepy.tech/badge/leeway/month)](https://pepy.tech/project/leeway)
+[![wheel](https://img.shields.io/pypi/wheel/leeway.svg?style=flat)](https://pypi.python.org/pypi/leeway/)
+[![supported-versions](https://img.shields.io/pypi/pyversions/leeway.svg?style=flat)](https://pypi.python.org/pypi/leeway/)
+[![supported-implementations](https://img.shields.io/pypi/implementation/leeway.svg?style=flat)](https://pypi.python.org/pypi/leeway/)
 
-    pipx install leeway
-or::
+# Installation
 
-    python -m pip install leeway
+'''console
+❯ pipx install leeway
+```
 
-Documentation
-=============
+or
+
+```console
+❯ python -m pip install leeway
+```
+# Documentation
 
 https://python-leeway.readthedocs.io/
 
-Development
-===========
+# Development
 
-To run the all tests run::
+To run the all tests run:
 
-    tox
+```console
+❯ make
+```
 
-Note, to combine the coverage data from all the tox environments run:
+## Status
 
-.. list-table::
-    :widths: 10 90
-    :stub-columns: 1
+Experimental..
 
-    - - Windows
-      - ::
-
-            set PYTEST_ADDOPTS=--cov-append
-            tox
-
-    - - Other
-      - ::
-
-            PYTEST_ADDOPTS=--cov-append tox
-
-**Note**: The name of the default branch is `default`.
+**Note**: The default branch is `default`.
