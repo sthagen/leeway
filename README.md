@@ -23,6 +23,7 @@ or
 ```console
 ❯ python -m pip install leeway
 ```
+
 # Documentation
 
 https://python-leeway.readthedocs.io/
