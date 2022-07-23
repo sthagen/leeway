@@ -16,6 +16,10 @@ Bread and butter box pushing bread slices under butter knives. Hints from previo
 
 User and developer [documentation of leeway](https://codes.dilettant.life/docs/leeway).
 
+## Bug Tracker
+
+Feature requests and bug reports are bested entered in the [todos of leeway](https://todo.sr.ht/~sthagen/leeway).
+
 ## Primary Source repository
 
 The primary source repository of [leeway is at sourcehut](https://git.sr.ht/~sthagen/leeway)

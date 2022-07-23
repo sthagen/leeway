@@ -12,29 +12,15 @@ Bread and butter box pushing bread slices under butter knives. Hints from previo
 [![supported-versions](https://img.shields.io/pypi/pyversions/leeway.svg?style=flat)](https://pypi.python.org/pypi/leeway/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/leeway.svg?style=flat)](https://pypi.python.org/pypi/leeway/)
 
-# Installation
 
-'''console
-❯ pipx install leeway
-```
+## Bug Tracker
 
-or
+Feature requests and bug reports are bested entered in the [todos of leeway](https://todo.sr.ht/~sthagen/leeway).
 
-```console
-❯ python -m pip install leeway
-```
+## Primary Source repository
 
-# Documentation
-
-https://python-leeway.readthedocs.io/
-
-# Development
-
-To run the all tests run:
-
-```console
-❯ make
-```
+The primary source repository of [leeway is at sourcehut](https://git.sr.ht/~sthagen/leeway)
+a collection of tools useful for software development.
 
 ## Status
 
