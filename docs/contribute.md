@@ -1,6 +1,7 @@
-============
-Contributing
-============
+
+# Contributing
+
+> This section is outdated and may still refer to github or tox which we move away from ...
 
 Contributions are welcome, and they are greatly appreciated! Every
 little bit helps, and credit will always be given.
@@ -8,7 +9,7 @@ little bit helps, and credit will always be given.
 Bug reports
 ===========
 
-When `reporting a bug <https://github.com/sthagen/python-leeway/issues>`_ please include:
+When `reporting a bug https://todo.sr.ht/~sthagen/leeway`_ please include:
 
     * Your operating system name and version.
     * Any details about your local setup that might be helpful in troubleshooting.
@@ -24,7 +25,7 @@ articles, and such.
 Feature requests and feedback
 =============================
 
-The best way to send feedback is to file an issue at https://github.com/sthagen/python-leeway/issues.
+The best way to send feedback is to file an issue at https://todo.sr.ht/~sthagen/leeway.
 
 If you are proposing a feature:
 
@@ -35,56 +36,23 @@ If you are proposing a feature:
 Development
 ===========
 
-To set up `python-leeway` for local development:
+To set up `leeway` for local development:
 
-1. Fork `python-leeway <https://github.com/sthagen/python-leeway>`_
-   (look for the "Fork" button).
+1. Fork `leeway <https://git.sr.ht/~sthagen/leeway>`_
+   (look for the "clone read-only" section / link).
 2. Clone your fork locally::
 
-    git clone git@github.com:your_name_here/python-leeway.git
+    git clone https://git.sr.ht/~sthagen/leeway
 
-3. Create a branch for local development::
+3. Perform your local development::
 
-    git checkout -b name-of-your-bugfix-or-feature
+   Change the code or docs until make fully passes again.
 
-   Now you can make your changes locally.
-
-4. When you're done making changes, run all the checks, doc builder and spell checker with `tox <https://tox.readthedocs.io/en/latest/install.html>`_ one command::
-
-    tox
-
-5. Commit your changes and push your branch to GitHub::
+4. Commit your changes::
 
     git add .
     git commit -m "Your detailed description of your changes."
-    git push origin name-of-your-bugfix-or-feature
 
-6. Submit a pull request through the GitHub website.
+5. Use git send-email to send changes upstream.
 
-Pull Request Guidelines
------------------------
-
-If you need some code review or feedback while you're developing the code just make the pull request.
-
-For merging, you should:
-
-1. Include passing tests (run ``tox``) [1]_.
-2. Update documentation when there's new API, functionality etc.
-3. Add a note to ``CHANGELOG.rst`` about the changes.
-4. Add yourself to ``AUTHORS.rst``.
-
-.. [1] If you don't have all the necessary python versions available locally you can rely on Travis - it will
-       `run the tests <https://travis-ci.org/sthagen/python-leeway/pull_requests>`_ for each change you add in the pull request.
-
-       It will be slower though ...
-
-Tips
-----
-
-To run a subset of tests::
-
-    tox -e envname -- py.test -k test_myfeature
-
-To run all the test environments in *parallel* (you need to ``pip install detox``)::
-
-    detox
+    Some help for that is available at eg https://git-send-email.io
