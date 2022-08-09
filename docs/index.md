@@ -15,7 +15,7 @@ Bread and butter box pushing bread slices under butter knives. Hints from previo
 
 ## Bug Tracker
 
-Feature requests and bug reports are bested entered in the [todos of leeway](https://todo.sr.ht/~sthagen/leeway).
+Feature requests and bug reports are best entered in the [todos of leeway](https://todo.sr.ht/~sthagen/leeway).
 
 ## Primary Source repository
 
