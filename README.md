@@ -18,7 +18,7 @@ User and developer [documentation of leeway](https://codes.dilettant.life/docs/l
 
 ## Bug Tracker
 
-Feature requests and bug reports are bested entered in the [todos of leeway](https://todo.sr.ht/~sthagen/leeway).
+Feature requests and bug reports are best entered in the [todos of leeway](https://todo.sr.ht/~sthagen/leeway).
 
 ## Primary Source repository
 
