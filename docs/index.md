@@ -23,6 +23,6 @@ The primary source of `leeway` lives somewhere on a mountain in Central Switzerl
 But, we use decentralized version control (git), so any clone can become the source to everyone's benefit, no central only code.
 Anyway, the preferred public clones of `leeway` are:
 
-* [on codeberg](https://codeberg.org/sthagen/leeway) - a collaboration platform and git hosting for free and open source software, content and projects.
+* [on codeberg](https://codeberg.org/sthagen/leeway) - a democratic community-driven, non-profit software development platform operated by Codeberg e.V.
 * [at sourcehut](https://git.sr.ht/~sthagen/leeway) - a collection of tools useful for software development.
 
