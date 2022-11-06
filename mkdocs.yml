@@ -3,6 +3,9 @@ site_description: "Bread and butter box pushing bread slices under butter knives
 
 theme:
   name: 'material'
+  features:
+    - navigation.expand
+    - toc.integrate
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
