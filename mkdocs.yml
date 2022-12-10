@@ -3,6 +3,8 @@ site_description: "Bread and butter box pushing bread slices under butter knives
 
 theme:
   name: 'material'
+  logo: assets/logo.png
+  favicon: images/favicon.ico
   features:
     - navigation.expand
     - toc.integrate
