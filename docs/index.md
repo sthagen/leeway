@@ -1,10 +1,10 @@
-# leeway
+# Leeway
 
 Bread and butter box pushing bread slices under butter knives. Hints from previous runs are taken.
 
-<!-- TODO: Third party dependencies are documented in the folder [docs/third-party](docs/third-party/README.md). -->
-
 [License: MIT](https://github.com/sthagen/leeway/blob/default/LICENSE)
+
+Third party dependencies are documented in the folder [third-party](third-party/README.md).
 
 [![version](https://img.shields.io/pypi/v/leeway.svg?style=flat)](https://pypi.python.org/pypi/leeway/)
 [![downloads](https://pepy.tech/badge/leeway/month)](https://pepy.tech/project/leeway)
