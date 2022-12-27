@@ -40,15 +40,15 @@ To set up `leeway` for local development:
 
 1. Fork leeway from e.g. <https://git.sr.ht/~sthagen/leeway>
    (look for the "clone read-only" section / link).
-2. Clone your fork locally::
+2. Clone your fork locally:
 
     git clone https://git.sr.ht/~sthagen/leeway
 
-3. Perform your local development::
+3. Perform your local development:
 
    Change the code or docs until make fully passes again.
 
-4. Commit your changes::
+4. Commit your changes:
 
     git add .
     git commit -m "Your detailed description of your changes."
