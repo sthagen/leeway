@@ -9,7 +9,7 @@ little bit helps, and credit will always be given.
 Bug reports
 ===========
 
-When reporting a bug https://todo.sr.ht/~sthagen/leeway please include:
+When reporting a bug <https://todo.sr.ht/~sthagen/leeway> please include:
 
     * Your operating system name and version.
     * Any details about your local setup that might be helpful in troubleshooting.
@@ -55,4 +55,4 @@ To set up `leeway` for local development:
 
 5. Use git send-email to send changes upstream.
 
-    Some help for that is available at eg https://git-send-email.io
+    Some help for that is available at eg <https://git-send-email.io>
