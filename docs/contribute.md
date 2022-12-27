@@ -9,7 +9,7 @@ little bit helps, and credit will always be given.
 Bug reports
 ===========
 
-When `reporting a bug https://todo.sr.ht/~sthagen/leeway`_ please include:
+When reporting a bug https://todo.sr.ht/~sthagen/leeway please include:
 
     * Your operating system name and version.
     * Any details about your local setup that might be helpful in troubleshooting.
@@ -38,7 +38,7 @@ Development
 
 To set up `leeway` for local development:
 
-1. Fork `leeway <https://git.sr.ht/~sthagen/leeway>`_
+1. Fork leeway from e.g. <https://git.sr.ht/~sthagen/leeway>
    (look for the "clone read-only" section / link).
 2. Clone your fork locally::
 
