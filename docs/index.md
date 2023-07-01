@@ -11,6 +11,7 @@ Third party dependencies are documented in the folder [third-party](third-party/
 [![wheel](https://img.shields.io/pypi/wheel/leeway.svg?style=flat)](https://pypi.python.org/pypi/leeway/)
 [![supported-versions](https://img.shields.io/pypi/pyversions/leeway.svg?style=flat)](https://pypi.python.org/pypi/leeway/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/leeway.svg?style=flat)](https://pypi.python.org/pypi/leeway/)
+[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/leeway.svg?style=flat)](https://git.sr.ht/~sthagen/leeway/log)
 
 ## Bug Tracker
 
