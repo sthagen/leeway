@@ -7,7 +7,7 @@ Bread and butter box pushing bread slices under butter knives. Hints from previo
 Third party dependencies are documented in the folder [third-party](docs/third-party/README.md).
 
 [![version](https://img.shields.io/pypi/v/leeway.svg?style=flat)](https://pypi.python.org/pypi/leeway/)
-[![downloads](https://pepy.tech/badge/leeway/month)](https://pepy.tech/project/leeway)
+[![downloads](https://static.pepy.tech/badge/leeway/month)](https://pepy.tech/project/leeway)
 [![wheel](https://img.shields.io/pypi/wheel/leeway.svg?style=flat)](https://pypi.python.org/pypi/leeway/)
 [![supported-versions](https://img.shields.io/pypi/pyversions/leeway.svg?style=flat)](https://pypi.python.org/pypi/leeway/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/leeway.svg?style=flat)](https://pypi.python.org/pypi/leeway/)
