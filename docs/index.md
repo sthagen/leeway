@@ -2,7 +2,9 @@
 
 Bread and butter box pushing bread slices under butter knives. Hints from previous runs are taken.
 
-[License: MIT](https://github.com/sthagen/leeway/blob/default/LICENSE)
+[License: MIT](https://github.com/sthagen/leeway/blob/default/LICENSE) |
+[Country of origin: Switzerland](https://git.sr.ht/~sthagen/leeway/tree/default/item/COUNTRY-OF-ORIGIN) |
+[Export control classification number(ECCN): EAR99](https://git.sr.ht/~sthagen/leeway/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
 
 Third party dependencies are documented in the folder [third-party](third-party/README.md).
 
