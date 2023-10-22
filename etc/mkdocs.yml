@@ -1,5 +1,7 @@
 site_name: "Leeway"
 site_description: "Bread and butter box pushing bread slices under butter knives. Hints from previous runs are taken."
+docs_dir: ../docs
+site_dir: ../site
 
 theme:
   name: 'material'
