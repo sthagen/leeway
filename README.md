@@ -2,18 +2,15 @@
 
 Bread and butter box pushing bread slices under butter knives. Hints from previous runs are taken.
 
-[License: MIT](https://github.com/sthagen/leeway/blob/default/LICENSE) | 
-[Country of origin: Switzerland](https://git.sr.ht/~sthagen/leeway/tree/default/item/COUNTRY-OF-ORIGIN) | 
-[Export control classification number(ECCN): EAR99](https://git.sr.ht/~sthagen/leeway/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
+[![License](docs/badges/license-spdx-mit.svg)](https://git.sr.ht/~sthagen/leeway/tree/default/item/LICENSE)
+[![Country of Origin](docs/badges/country-of-origin-name-switzerland-neutral.svg)](https://git.sr.ht/~sthagen/leeway/tree/default/item/COUNTRY-OF-ORIGIN)
+[![Export Classification Control Number (ECCN)](docs/badges/export-control-classification-number_eccn-ear99-neutral.svg)](https://git.sr.ht/~sthagen/leeway/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
+[![Configuration](docs/badges/configuration-sbom.svg)](https://git.sr.ht/~sthagen/leeway/tree/default/item/docs/third-party/README.md)
 
-Third party dependencies are documented in the folder [third-party](docs/third-party/README.md).
-
-[![version](https://img.shields.io/pypi/v/leeway.svg?style=flat)](https://pypi.python.org/pypi/leeway/)
-[![downloads](https://static.pepy.tech/badge/leeway/month)](https://pepy.tech/project/leeway)
-[![wheel](https://img.shields.io/pypi/wheel/leeway.svg?style=flat)](https://pypi.python.org/pypi/leeway/)
-[![supported-versions](https://img.shields.io/pypi/pyversions/leeway.svg?style=flat)](https://pypi.python.org/pypi/leeway/)
-[![supported-implementations](https://img.shields.io/pypi/implementation/leeway.svg?style=flat)](https://pypi.python.org/pypi/leeway/)
-[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/leeway.svg?style=flat)](https://git.sr.ht/~sthagen/leeway/log)
+[![Version](https://img.shields.io/pypi/v/leeway.svg?style=flat)](https://pypi.python.org/pypi/leeway/)
+[![Downloads](https://static.pepy.tech/badge/leeway/month)](https://pepy.tech/project/leeway)
+[![Supported Versions](https://img.shields.io/pypi/pyversions/leeway.svg?style=flat)](https://pypi.python.org/pypi/leeway/)
+[![Maintenance Status](https://img.shields.io/github/commit-activity/y/sthagen/leeway.svg?style=flat)](https://git.sr.ht/~sthagen/leeway/log)
 
 ## Documentation
 
