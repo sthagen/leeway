@@ -8,7 +8,7 @@ Bread and butter box pushing bread slices under butter knives. Hints from previo
 [![Configuration](docs/badges/configuration-sbom.svg)](https://git.sr.ht/~sthagen/leeway/tree/default/item/docs/third-party/README.md)
 
 [![Version](https://img.shields.io/pypi/v/leeway.svg?style=flat)](https://pypi.python.org/pypi/leeway/)
-[![Downloads](https://static.pepy.tech/badge/leeway/month)](https://pepy.tech/project/leeway)
+[![Downloads](docs/badges/downloads-per-month.svg)](https://pepy.tech/project/leeway)
 [![Supported Versions](https://img.shields.io/pypi/pyversions/leeway.svg?style=flat)](https://pypi.python.org/pypi/leeway/)
 [![Maintenance Status](docs/badges/commits-per-year.svg)](https://git.sr.ht/~sthagen/leeway/log)
 
