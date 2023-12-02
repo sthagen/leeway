@@ -1,7 +1,7 @@
 {
   "leeway": {
-    "version": "7.3.2",
-    "timestamp": "2023-12-02T15:22:56.796309",
+    "coverage_tool_version": "7.3.2",
+    "timestamp": "2023-12-02 15:57:54 +00:00",
     "branch_coverage": true,
     "show_contexts": true,
     "covered_lines": 7,
@@ -13,6 +13,21 @@
     "num_branches": 2,
     "num_partial_branches": 0,
     "covered_branches": 2,
-    "missing_branches": 0
+    "missing_branches": 0,
+    "node_id": "c79891e5-aabf-3a83-95b9-588edcd8327f",
+    "nfiles": 2,
+    "files": [
+      "leeway/__init__.py",
+      "leeway/cli.py"
+    ],
+    "blake3": "3dd91d7dd5bc8e28737c230eaeba316514583e472bce6badead0f73536e1d43f",
+    "blake2": "dccf45c04ac7473ce95a7011bda74e2c8b5c0a1beba36b35a06b365c6bd12c5f416740d45ed1ea1ee69398b2e8899a4bce1e252d9d73494239876a1a3220f3a7",
+    "sha512": "33146e1d45fd62bcd0f8b843803853d667ee35fa657bc84c86946bf59f1a48cacda501143ba2f3e998f8dd5e1f80b19eed53174385dfbc3fa3494294f5cb9f93",
+    "sha384": "d84507c3ac6155cbf35e0666226883c374825fab8cba9454c07e16e00f38d20f711dd25e39ea74894f16e4b184d44ee3",
+    "sha256": "3e6293025223a4f69658a31a058300f09ddd1ee8121b924f04ff1fe72da76f6c",
+    "sha1": "3e0371609039b5d67d50d01bb7c101486422ee5f",
+    "md5": "9084fe66cfe81a37a22afeff8f515bc1",
+    "python_version": "3.10.12",
+    "entropy": 4.884603
   }
 }
