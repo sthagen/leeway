@@ -21,6 +21,7 @@
       "last_month": -1,
       "last_week": -1
     },
+    "dynamic": null,
     "home_page": "",
     "keywords": "developer-tools,devops",
     "license": "",
@@ -37,6 +38,7 @@
       "Source-Code": "https://git.sr.ht/~sthagen/leeway",
       "Test-Coverage": "https://codes.dilettant.life/coverage/leeway"
     },
+    "provides_extra": null,
     "release_url": "https://pypi.org/project/leeway/2023.10.22/",
     "requires_dist": [
       "typer >=0.9.0",
