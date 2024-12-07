@@ -2,13 +2,8 @@
   "data": [
     {
       "category": "3.10",
-      "date": "2024-05",
-      "downloads": 40
-    },
-    {
-      "category": "3.10",
       "date": "2024-06",
-      "downloads": 211
+      "downloads": 146
     },
     {
       "category": "3.10",
@@ -33,17 +28,17 @@
     {
       "category": "3.10",
       "date": "2024-11",
-      "downloads": 188
+      "downloads": 248
     },
     {
-      "category": "3.11",
-      "date": "2024-05",
-      "downloads": 40
+      "category": "3.10",
+      "date": "2024-12",
+      "downloads": 68
     },
     {
       "category": "3.11",
       "date": "2024-06",
-      "downloads": 213
+      "downloads": 149
     },
     {
       "category": "3.11",
@@ -68,17 +63,17 @@
     {
       "category": "3.11",
       "date": "2024-11",
-      "downloads": 184
+      "downloads": 240
     },
     {
-      "category": "3.12",
-      "date": "2024-05",
-      "downloads": 40
+      "category": "3.11",
+      "date": "2024-12",
+      "downloads": 48
     },
     {
       "category": "3.12",
       "date": "2024-06",
-      "downloads": 212
+      "downloads": 148
     },
     {
       "category": "3.12",
@@ -103,17 +98,17 @@
     {
       "category": "3.12",
       "date": "2024-11",
-      "downloads": 187
+      "downloads": 245
     },
     {
-      "category": "3.8",
-      "date": "2024-05",
-      "downloads": 40
+      "category": "3.12",
+      "date": "2024-12",
+      "downloads": 52
     },
     {
       "category": "3.8",
       "date": "2024-06",
-      "downloads": 211
+      "downloads": 147
     },
     {
       "category": "3.8",
@@ -138,17 +133,17 @@
     {
       "category": "3.8",
       "date": "2024-11",
-      "downloads": 186
+      "downloads": 242
     },
     {
-      "category": "3.9",
-      "date": "2024-05",
-      "downloads": 13
+      "category": "3.8",
+      "date": "2024-12",
+      "downloads": 48
     },
     {
       "category": "3.9",
       "date": "2024-06",
-      "downloads": 15
+      "downloads": 12
     },
     {
       "category": "3.9",
@@ -173,12 +168,7 @@
     {
       "category": "3.9",
       "date": "2024-11",
-      "downloads": 55
-    },
-    {
-      "category": "null",
-      "date": "2024-05",
-      "downloads": 8
+      "downloads": 59
     },
     {
       "category": "null",
@@ -208,7 +198,12 @@
     {
       "category": "null",
       "date": "2024-11",
-      "downloads": 110
+      "downloads": 124
+    },
+    {
+      "category": "null",
+      "date": "2024-12",
+      "downloads": 5
     }
   ],
   "package": "leeway",
